@@ -1,3 +1,3 @@
-g++ -c EffectiveItem2.cxx
-g++ -o EffectiveItem2 EffectiveItem2.o
-./EffectiveItem2
+g++ -c EffectiveItem3.cxx
+g++ -o EffectiveItem3 EffectiveItem3.o
+./EffectiveItem3
